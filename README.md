@@ -21,7 +21,7 @@
   - Batch Size: 32
   - Epochs: 10
 
-- **Accuracy: 99.62%**
+- **Accuracy: 97.60%**
 
 ## Using Transfer Learning from ResNet18
 - **Best Hyperparameters:**
@@ -29,4 +29,4 @@
   - Batch Size: 16
   - Epochs: 10
 
-- **Accuracy: 99.38%**
+- **Accuracy: 99.30%**
