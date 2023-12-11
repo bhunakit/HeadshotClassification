@@ -1,6 +1,6 @@
 ## Data Source
-real headshot image dataset: https://github.com/socialabubi/iFakeFaceDB <br>
-fake headshot image dataset: https://thispersondoesnotexist.com/
+Real headshot image dataset: https://github.com/socialabubi/iFakeFaceDB <br>
+Fake headshot image dataset: https://thispersondoesnotexist.com/
 
 ## Using Convolution Neural Network
 Best Hyperparameters:  <br>
